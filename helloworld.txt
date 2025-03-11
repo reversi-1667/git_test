@@ -1,1 +1,4 @@
 hello Odin!!!!
+
+commit no3: testing changing the git commit editor..
+using vs so no need to write commit message in Vim
